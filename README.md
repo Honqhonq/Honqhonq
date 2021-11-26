@@ -3,15 +3,9 @@
 Music,
 Guitar,
 Technology,
-Musicals,
 Learning,
 Culture,
 and more!
-- 🌱 I’m currently learning:
-Python,
-HTML,
-CSS,
- and Java
 - 📫 How to reach me:
 Email: honqhonq@protonmail.com
 
